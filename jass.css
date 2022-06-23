@@ -399,12 +399,12 @@
   }
   
   a {
-    color: #1b89bc;
+    color: #6e0688;
     text-decoration: none;
   }
   
   a:hover {
-    color: #065b83;
+    color: #cd46f7;
     text-decoration: underline;
   }
   
@@ -859,56 +859,56 @@
   }
   
   .text-primary {
-    color: #2d3e50 !important;
+    color: #470450 !important;
   }
   
   .text-info {
-    color: #1bbc9b !important;
+    color: #d268e7 !important;
   }
   
   .text-danger {
-    color: #e64c66 !important;
+    color: #810e81 !important;
   }
   
   .text-default {
-    color: #aeaeae !important;
+    color: #eaa4f3 !important;
   }
   
   .text-light {
-    color: #d9e9e8 !important;
+    color: #d4b0dd !important;
   }
   
   .text-dark {
-    color: #1a1a1a !important;
+    color: #290b29 !important;
   }
   
   .text-white {
-    color: #ffffff !important;
+    color: #ebccf3 !important;
   }
   
   .text-black {
-    color: #000000 !important;
+    color: #290333 !important;
   }
   
   .text-link {
-    color: #1b89bc !important;
+    color: #af1bbc !important;
   }
   
   /* BACKGROUND UTILS */
   .bg-primary {
-    background-color: #2d3e50 !important;
+    background-color: #432d50 !important;
   }
   
   .bg-info {
-    background-color: #1bbc9b !important;
+    background-color: #af1bbc !important;
   }
   
   .bg-danger {
-    background-color: #e64c66 !important;
+    background-color: #a14ce6 !important;
   }
   
   .bg-light {
-    background-color: #d9e9e8 !important;
+    background-color: #e7d9e9 !important;
   }
   
   .bg-dark {
@@ -924,7 +924,7 @@
   }
   
   .bg-link {
-    background-color: #1b89bc !important;
+    background-color: #b71bbc !important;
   }
   
   /* DISPLAY */
@@ -1002,31 +1002,31 @@
   }
   
   .btn.btn-danger:hover {
-    background-color: #ee8294;
+    background-color: #ee82e0;
   }
   
   .btn.btn-warning {
-    background-color: #ffca2c;
+    background-color: #2cb2ff;
     color: #000000;
   }
   
   .btn.btn-warning:hover {
-    background-color: #ffca2cf5;
+    background-color: #2cb2fff5;
     color: #000000;
   }
   
   .btn.btn-success {
-    background-color: #157347;
+    background-color: #155873;
     color: #ffffff;
   }
   
   .btn.btn-success:hover {
-    background-color: #12854f;
+    background-color: #125185;
     color: #ffffff;
   }
   
   .btn.btn-info {
-    background-color: #1bbc9b;
+    background-color: #1b66bc;
     color: #ffffff;
   }
   
