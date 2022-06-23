@@ -23,4 +23,4 @@ Your recent searches are also saved to localStorage.
 This app runs in the browser and features dynamically updated HTML and CSS powered by jQuery. 
 It uses OpenWeatherAPI to pull the weather data and stores user entered data to localStorage.
 
-Link: http://127.0.0.1:5500/Weather-Dashboard/index.html
+Link: https://jonnotjohn440.github.io/Weather-Dashboard/
